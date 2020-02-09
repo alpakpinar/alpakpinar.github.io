@@ -4,7 +4,7 @@ I am a Physics PhD student at Boston University, working on the CMS Experiment a
 
 ## Several Projects
 
-Here are links to repositories of several projects I worked on.
+Here are links to repositories of several projects I am involved with.
 
 - Python ([coffea](https://github.com/CoffeaTeam/coffea)) based data analysis framework: [bucoffea](https://github.com/bu-cms/bucoffea)
 - A music genre classifier using unsupervised learning tools and word2vec: [genreGenius](https://github.com/alpakpinar/genreGenius)
@@ -14,7 +14,7 @@ Here are links to repositories of several projects I worked on.
 
 Here are several books that I find worth reading:
 
-- Why Nations Fail: The Origins of Power, Prosperity, and Poverty, Daron Acemoglu, James A. Robinson
+- Why Nations Fail: The Origins of Power, Prosperity and Poverty, Daron Acemoglu, James A. Robinson
 - Samarkand, Amin Maalouf
 
 Here are several bands that I enjoy listening to:
