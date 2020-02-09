@@ -1,6 +1,6 @@
 ## About
 
-I am a Physics PhD student at Boston University, working on the CMS Experiment at CERN. Currently, I'm working on the development of a Python based data analysis framework, [bucoffea](https://github.com/bu-cms/bucoffea). Interested in problems involving large scale data analysis and application of supervised/unsupervised machine learning to inference problems.
+I am a Physics PhD student at Boston University, working on the CMS Experiment at CERN. Currently, I'm working on the development of a Python based data analysis framework, [bucoffea](https://github.com/bu-cms/bucoffea). Interested in problems involving large scale data analysis and application of supervised/unsupervised machine learning to inference problems. Also interested in music and drumming.
 
 ## Several Projects
 
