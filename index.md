@@ -4,7 +4,7 @@ I am a Physics PhD student at Boston University, working on the CMS Experiment a
 
 ## Several Projects
 
-Here are links to repositories of several projects I am involved with.
+Here are links to repositories of several projects I am involved with:
 
 - Python ([coffea](https://github.com/CoffeaTeam/coffea)) based data analysis framework: [bucoffea](https://github.com/bu-cms/bucoffea)
 - A music genre classifier using unsupervised learning tools and word2vec: [genreGenius](https://github.com/alpakpinar/genreGenius)
