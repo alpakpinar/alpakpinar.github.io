@@ -14,8 +14,8 @@ Here are links to repositories of several projects I am involved with:
 
 Here are several books that I find worth reading:
 
-- Why Nations Fail: The Origins of Power, Prosperity and Poverty, Daron Acemoglu, James A. Robinson
-- Samarkand, Amin Maalouf
+- Why Nations Fail: The Origins of Power, Prosperity and Poverty | Daron Acemoglu, James A. Robinson
+- Samarkand | Amin Maalouf
 
 Here are several bands that I enjoy listening to:
 
