@@ -12,7 +12,7 @@ Here are links to repositories of several projects I am involved with:
 
 ## Miscellaneous
 
-Here are several books that I find worth reading:
+Here are several books that I find influential:
 
 - Why Nations Fail: The Origins of Power, Prosperity and Poverty; Daron Acemoglu, James A. Robinson
 - Samarkand; Amin Maalouf
